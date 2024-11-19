@@ -1,2 +1,2 @@
 # playwright
-Attempt to learn Playwright framework with Python by automating scenarios
+Attempt to learn Playwright framework with Javascript by automating scenarios
