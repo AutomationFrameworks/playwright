@@ -1,0 +1,18 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Attempt to learn Playwright framework with Javascript by automating scenarios",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@gh-personal:AutomationFrameworks/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.0"
+  }
+}
